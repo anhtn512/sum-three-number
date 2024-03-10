@@ -4,7 +4,7 @@
     "prompt-sync": "^4.2.0"
   },
   "name": "sum-three-number-anhtn512",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "sum 3 number",
   "main": "index.js",
   "devDependencies": {},
