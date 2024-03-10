@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FullStuckDevelooper/sum-three-number"
+    "url": "git+https://github.com/FullStuckDevelooper/sum-three-number.git"
   },
   "author": "",
   "license": "ISC",
