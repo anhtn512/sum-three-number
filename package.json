@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "colors": "^1.4.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "sum-three-number-phl": "^1.0.0"
   },
   "name": "sum-three-number-anhtn512",
   "version": "1.0.0",
   "description": "sum 3 number",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
